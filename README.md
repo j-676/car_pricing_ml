@@ -1,10 +1,10 @@
-# 🚗 - Car Pricing ML
+# 🚘 - Car Pricing ML 🚘
 
 **Estimating Car Prices for a Local Dealership**  
 *Machine Learning pipeline to predict used car market value from features like age, engine, mileage, and condition.*
 
-[![RandomForest Feature Importance](feature_importance.png)](feature_importance.png)  
-*Top drivers: car_age (27%), engine_volume (20%), mileage (12%)*
+
+*Top drivers: year (30%), car_age (25%), engine_volume (23%)*
 
 ##  Business Problem
 Local dealership faces inconsistent pricing → **lost revenue** (undervalued) or **inventory costs** (overpriced).  
