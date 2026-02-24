@@ -1,4 +1,4 @@
-# 🚘 - Car Pricing ML 
+# 🚘 Car Pricing ML 
 
 **Estimating Car Prices for a Local Dealership**  
 *Machine Learning pipeline to predict used car market value from features like age, engine, mileage, and condition.*
