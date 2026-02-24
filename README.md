@@ -58,7 +58,7 @@ predicted_price = best_model.predict([new_car])
 | **ML** | scikit-learn, XGBoost, RandomForestRegressor |
 | **Visualization** | matplotlib, seaborn |
 | **Preprocessing** | pandas, StandardScaler, OneHotEncoder |
-| **Environment** | **Google Colab (T4 GPU recommended)** |
+| **Environment** | **Google Colab)** |
 | **Deployment** | Ready for Streamlit/Flask/FastAPI |
 
 
@@ -78,7 +78,10 @@ predicted_price = best_model.predict([new_car])
 
 
 ##  License
-**MIT License** - Free to use, modify, and deploy for commercial purposes.
+
+MIT License** - Free to use, modify, and deploy for commercial purposes.
+
+
 ---
 
 
