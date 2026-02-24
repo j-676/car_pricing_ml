@@ -11,7 +11,7 @@ Local dealership faces inconsistent pricing → **lost revenue** (undervalued) o
 **Solution**: ML model predicts fair market price based on car characteristics.
 
 ##  Dataset
-- **Source**: `cars-cars.csv` (used car listings) [file:1]
+- **Source**: `cars-cars.csv` (used car listings) 
 - **Features**: make, model, year, mileage_km, engine_volume_cm3, fuel_type, transmission, drive_unit, condition, segment
 - **Target**: `priceUSD`
 - **Size**: ~100K+ rows (full dataset)
@@ -58,7 +58,7 @@ predicted_price = best_model.predict([new_car])
 | **ML** | scikit-learn, XGBoost, RandomForestRegressor |
 | **Visualization** | matplotlib, seaborn |
 | **Preprocessing** | pandas, StandardScaler, OneHotEncoder |
-| **Environment** | **Google Colab)** |
+| **Environment** | **Google Colab** |
 | **Deployment** | Ready for Streamlit/Flask/FastAPI |
 
 
