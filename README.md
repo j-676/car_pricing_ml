@@ -46,7 +46,7 @@ Complete end-to-end workflow in [Google Colab](Car_Pricing_ML.ipynb):
 new_car = {"make": "bmw", "model": "3", "year": 2018, ...}
 predicted_price = best_model.predict([new_car])
 
-
+```
 ##  Tech Stack
 
 | Category | Tools |
@@ -57,8 +57,7 @@ predicted_price = best_model.predict([new_car])
 | **Environment** | **Google Colab (T4 GPU recommended)** |
 | **Deployment** | Ready for Streamlit/Flask/FastAPI |
 
-##  License
-**MIT License** - Free to use, modify, and deploy for commercial purposes.
+
 
 
 ##  Recommendations
@@ -77,6 +76,7 @@ predicted_price = best_model.predict([new_car])
 ##  License
 **MIT License** - Free to use, modify, and deploy for commercial purposes.
 ---
+
 
 
 
