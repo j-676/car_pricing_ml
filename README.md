@@ -79,7 +79,7 @@ predicted_price = best_model.predict([new_car])
 
 ##  License
 
-MIT License** - Free to use, modify, and deploy for commercial purposes.
+MIT License - Free to use, modify, and deploy for commercial purposes.
 
 
 ---
